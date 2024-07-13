@@ -1,2 +1,2 @@
 # Prasunet_ML
-This repository projects that i have completed as Machine Learning Intern under Prasunet company
+This repository contains projects that I have completed as Machine Learning Intern under Prasunet company.
