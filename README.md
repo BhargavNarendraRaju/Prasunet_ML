@@ -12,5 +12,4 @@ Task 03: Image classification on dogs-vs-cats dataset using Support Vector Machi
 
 Task 04: Hand Gesture Recognition using Convolution Neural Networks (CNN).
 
-Task 05: Estimation of Food Calories using ResNet50.
 
